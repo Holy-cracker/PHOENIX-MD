@@ -33,6 +33,7 @@ GLOBAL-MD is a Cool Multi-Device WhatsApp bot developed by [GlobalTechInfo](http
 
 ### `GENERATE SESSION`
 
+`Click On Server 1 Button And Wait About 50 To 90 Seconds Website Will Take To Open As Per Renders Free Instance Policy`
 
 ### PAIRING SERVER 1
 --------
